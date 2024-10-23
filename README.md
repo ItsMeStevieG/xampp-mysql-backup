@@ -54,4 +54,4 @@ C:\path\to\backup.bat
 * **MySQL not found:** Ensure you enter the correct path to your XAMPP installation. The MySQL binaries should be located in `C:\xampp\mysql\bin` or similar.
 * **Access Denied:** Ensure you have the correct MySQL root password, or that MySQL is running in XAMPP.
 ### License
-This project is open-source and free to use under the MIT License. See the [LICENSE.md](https://github.com/ItsMeStevieG/xampp-mysql-backup/tree/main?tab=MIT-1-ov-file) file for more information.
+This project is open-source and free to use under the MIT License. See the [LICENSE.md](LICENSE) file for more information.
